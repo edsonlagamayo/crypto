@@ -1,0 +1,15 @@
+{
+    "name": "Xclusibo Token Coin",
+    "symbol": "XCLUSIBO",
+    "seller_fee_basis_points": 500,
+    "image": "https://raw.githubusercontent.com/edsonlagamayo/crypto/main/zagaratokenchip.png?ext=png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/edsonlagamayo/crypto/main/zagaratokenchip.png",
+                "type": "png"
+            }
+        ],
+        "category": "image"
+    }
+}
